@@ -25,7 +25,7 @@ function App() {
         <Route path="/signUp" element={<SignUpForm />} />
         <Route path="/resetpw" element={<Resetpw/>} />
       </Routes>
-      {/* <Footer />  */}
+      {/* <Footer /> */}
     </Router>
   );
 }
